@@ -57,7 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Junior Developper</h3>
       <p className="home__description">
-        I'm very passionnate in Web development.I'm currently studying at
+        I'm very passionnate in Web development. I'm currently studying at
         ESP(Ecole Superieure Polytechnique de Dakar){" "}
       </p>
 
